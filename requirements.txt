@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+phonenumbers
+email-validator
+dnspython 
