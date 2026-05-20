@@ -1,5 +1,7 @@
 # Phone and Email Validation API
 
+[![Olaverse API](https://img.shields.io/badge/Olaverse-API%20Doc-blue?style=flat-square)](https://www.olaverse.co.uk/validator-api) [![Try on Vibeland](https://img.shields.io/badge/Vibeland-Try%20Live-orange?style=flat-square)](https://www.vibeland.co.uk/tools/validation)
+
 A simple FastAPI-based service to validate phone numbers and email addresses, returning detailed metadata for each.
 
 ## Features
